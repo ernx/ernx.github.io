@@ -1,4 +1,7 @@
 html,
 body {
     background: url(images/bg-texture.jpg);
+    background-color: #333;
+    color: #eee;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
 }
